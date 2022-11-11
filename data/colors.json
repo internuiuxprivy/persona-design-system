@@ -609,10 +609,12 @@
       }
     }
   },
+  "semantics": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "colors"
+      "colors",
+      "semantics"
     ]
   }
 }
