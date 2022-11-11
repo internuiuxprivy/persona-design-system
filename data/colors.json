@@ -832,82 +832,82 @@
     },
     "border": {
       "default": {
-        "value": "#dbdbdc",
+        "value": "{gray.15}",
         "type": "color",
         "description": "main/gray/15"
       },
       "defaultAlpha": {
-        "value": "#0d11170d",
+        "value": "rgba({gray.100},{opacity.5})",
         "type": "color",
         "description": "rgba(main/gray/100, 0.05)"
       },
       "subtle": {
-        "value": "#cfcfd1",
+        "value": "{gray.20}",
         "type": "color",
-        "description": "border/subtle"
+        "description": "gray/20"
       },
       "subtleAlpha": {
-        "value": "#0d11171a",
+        "value": "rgba({gray.100},{opacity.10})",
         "type": "color",
         "description": "rgba(main/gray/100, 0.1)"
       },
       "muted": {
-        "value": "#e7e7e8",
+        "value": "{gray.10}",
         "type": "color",
         "description": "main/gray/10"
       },
       "onEmphasis": {
-        "value": "#56585d",
+        "value": "{gray.70}",
         "type": "color",
         "description": "main/gray/70"
       },
       "onEmphasisAlpha": {
-        "value": "#fafafa0d",
+        "value": "rgba({gray.0},{opacity.5})",
         "type": "color",
         "description": "rgba(main/gray/0, 0.05)"
       },
       "onEmphasisAlphaSubtle": {
-        "value": "#fafafa1a",
+        "value": "rgba({gray.0},{opacity.10})",
         "type": "color",
         "description": "rgba(main/gray/0, 0.1)"
       },
       "accent": {
-        "value": "#bfd9f3",
+        "value": "{blue.10}",
         "type": "color",
         "description": "main/blue/10"
       },
       "accentEmphasis": {
-        "value": "#0065d1",
+        "value": "{blue.40}",
         "type": "color",
         "description": "main/blue/40"
       },
       "success": {
-        "value": "#c8ecd0",
+        "value": "{green.10}",
         "type": "color",
         "description": "main/green/10"
       },
       "successEmphasis": {
-        "value": "#23b242",
+        "value": "{green.40}",
         "type": "color",
         "description": "main/green/40"
       },
       "warning": {
-        "value": "#fde9c8",
+        "value": "{orange.10}",
         "type": "color",
         "description": "main/orange/10"
       },
       "warningEmphasis": {
-        "value": "#f5a623",
+        "value": "{orange.40}",
         "type": "color",
         "description": "main/orange/40"
       },
       "danger": {
-        "value": "#f8cbca",
+        "value": "{red.10}",
         "type": "color",
         "description": "main/red/10"
       },
       "dangerEmphasis": {
-        "value": "#e42e2c",
+        "value": "{red.40}",
         "type": "color",
         "description": "main/red/40"
       }
