@@ -593,7 +593,7 @@
     },
     "misc": {
       "shimmer": {
-        "value": "linear-gradient(90deg, #e7e7e80d 0%, #dbdbdc 69.79%, #e7e7e80d 100%)",
+        "value": "linear-gradient(90deg, rgba($gray.5, $opacity.0) 0%, $gray.5 50%, rgba($gray.5, $opacity.0) 100%)",
         "type": "color",
         "description": "misc/shimmer"
       },
