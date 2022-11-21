@@ -1,5 +1,17 @@
 {
   "colors": {
+    "base": {
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "base/black"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "base/white"
+      }
+    },
     "blue": {
       "0": {
         "value": "#f2f7fd",
@@ -525,117 +537,105 @@
         "5": {
           "value": "#0000000d",
           "type": "color",
-          "description": "black/5"
+          "description": "alpha/black/5"
         },
         "10": {
           "value": "#0000001a",
           "type": "color",
-          "description": "black/10"
+          "description": "alpha/black/10"
         },
         "20": {
           "value": "#00000033",
           "type": "color",
-          "description": "black/20"
+          "description": "alpha/black/20"
         },
         "30": {
           "value": "#0000004d",
           "type": "color",
-          "description": "black/30"
+          "description": "alpha/black/30"
         },
         "40": {
           "value": "#00000066",
           "type": "color",
-          "description": "black/40"
+          "description": "alpha/black/40"
         },
         "50": {
           "value": "#00000080",
           "type": "color",
-          "description": "black/50"
+          "description": "alpha/black/50"
         },
         "60": {
           "value": "#00000099",
           "type": "color",
-          "description": "black/60"
+          "description": "alpha/black/60"
         },
         "70": {
           "value": "#000000b3",
           "type": "color",
-          "description": "black/70"
+          "description": "alpha/black/70"
         },
         "80": {
           "value": "#000000cc",
           "type": "color",
-          "description": "black/80"
+          "description": "alpha/black/80"
         },
         "90": {
           "value": "#000000e6",
           "type": "color",
-          "description": "black/90"
+          "description": "alpha/black/90"
         }
       },
       "white": {
         "5": {
           "value": "#ffffff0d",
           "type": "color",
-          "description": "white/5"
+          "description": "alpha/white/5"
         },
         "10": {
           "value": "#ffffff1a",
           "type": "color",
-          "description": "white/10"
+          "description": "alpha/white/10"
         },
         "20": {
           "value": "#ffffff33",
           "type": "color",
-          "description": "white/20"
+          "description": "alpha/white/20"
         },
         "30": {
           "value": "#ffffff4d",
           "type": "color",
-          "description": "white/30"
+          "description": "alpha/white/30"
         },
         "40": {
           "value": "#ffffff66",
           "type": "color",
-          "description": "white/40"
+          "description": "alpha/white/40"
         },
         "50": {
           "value": "#ffffff80",
           "type": "color",
-          "description": "white/50"
+          "description": "alpha/white/50"
         },
         "60": {
           "value": "#ffffff99",
           "type": "color",
-          "description": "white/60"
+          "description": "alpha/white/60"
         },
         "70": {
           "value": "#ffffffb3",
           "type": "color",
-          "description": "white/70"
+          "description": "alpha/white/70"
         },
         "80": {
           "value": "#ffffffcc",
           "type": "color",
-          "description": "white/80"
+          "description": "alpha/white/80"
         },
         "90": {
           "value": "#ffffffe6",
           "type": "color",
-          "description": "white/90"
+          "description": "alpha/white/90"
         }
-      }
-    },
-    "base": {
-      "black": {
-        "value": "#000000",
-        "type": "color",
-        "description": "base/black"
-      },
-      "white": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "base/white"
       }
     },
     "gray": {
