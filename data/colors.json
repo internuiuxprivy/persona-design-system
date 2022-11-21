@@ -535,104 +535,104 @@
     "alpha": {
       "black": {
         "5": {
-          "value": "#0000000d",
+          "value": "rgba($base.black, $opacity.5)",
           "type": "color",
           "description": "alpha/black/5"
         },
         "10": {
-          "value": "#0000001a",
+          "value": "rgba($base.black, $opacity.10)",
           "type": "color",
           "description": "alpha/black/10"
         },
         "20": {
-          "value": "#00000033",
+          "value": "rgba($base.black, $opacity.20)",
           "type": "color",
           "description": "alpha/black/20"
         },
         "30": {
-          "value": "#0000004d",
+          "value": "rgba($base.black, $opacity.30)",
           "type": "color",
           "description": "alpha/black/30"
         },
         "40": {
-          "value": "#00000066",
+          "value": "rgba($base.black, $opacity.40)",
           "type": "color",
           "description": "alpha/black/40"
         },
         "50": {
-          "value": "#00000080",
+          "value": "rgba($base.black, $opacity.50)",
           "type": "color",
           "description": "alpha/black/50"
         },
         "60": {
-          "value": "#00000099",
+          "value": "rgba($base.black, $opacity.60)",
           "type": "color",
           "description": "alpha/black/60"
         },
         "70": {
-          "value": "#000000b3",
+          "value": "rgba($base.black, $opacity.70)",
           "type": "color",
           "description": "alpha/black/70"
         },
         "80": {
-          "value": "#000000cc",
+          "value": "rgba($base.black, $opacity.80)",
           "type": "color",
           "description": "alpha/black/80"
         },
         "90": {
-          "value": "#000000e6",
+          "value": "rgba($base.black, $opacity.90)",
           "type": "color",
           "description": "alpha/black/90"
         }
       },
       "white": {
         "5": {
-          "value": "#ffffff0d",
+          "value": "rgba($base.white, $opacity.5)",
           "type": "color",
           "description": "alpha/white/5"
         },
         "10": {
-          "value": "#ffffff1a",
+          "value": "rgba($base.white, $opacity.10)",
           "type": "color",
           "description": "alpha/white/10"
         },
         "20": {
-          "value": "#ffffff33",
+          "value": "rgba($base.white, $opacity.20)",
           "type": "color",
           "description": "alpha/white/20"
         },
         "30": {
-          "value": "#ffffff4d",
+          "value": "rgba($base.white, $opacity.30)",
           "type": "color",
           "description": "alpha/white/30"
         },
         "40": {
-          "value": "#ffffff66",
+          "value": "rgba($base.white, $opacity.40)",
           "type": "color",
           "description": "alpha/white/40"
         },
         "50": {
-          "value": "#ffffff80",
+          "value": "rgba($base.white, $opacity.50)",
           "type": "color",
           "description": "alpha/white/50"
         },
         "60": {
-          "value": "#ffffff99",
+          "value": "rgba($base.white, $opacity.60)",
           "type": "color",
           "description": "alpha/white/60"
         },
         "70": {
-          "value": "#ffffffb3",
+          "value": "rgba($base.white, $opacity.70)",
           "type": "color",
           "description": "alpha/white/70"
         },
         "80": {
-          "value": "#ffffffcc",
+          "value": "rgba($base.white, $opacity.80)",
           "type": "color",
           "description": "alpha/white/80"
         },
         "90": {
-          "value": "#ffffffe6",
+          "value": "rgba($base.white, $opacity.90)",
           "type": "color",
           "description": "alpha/white/90"
         }
@@ -747,17 +747,17 @@
     },
     "misc": {
       "shimmer": {
-        "value": "linear-gradient(90deg, #e7e7e800 0%, #f0f0f0 51.56%, #e7e7e800 100%)",
+        "value": "linear-gradient(90deg, rgba($gray.5, $opacity.0) 0%, $gray.5 50%, rgba($gray.5, $opacity.0) 100%)",
         "type": "color",
         "description": "misc/shimmer"
       },
       "labelBg": {
-        "value": "linear-gradient(180deg, #00000000 46.88%, #ffffff 46.88%)",
+        "value": "linear-gradient(180deg, transparent 50%, $base.white 50%)",
         "type": "color",
         "description": "misc/labelBg"
       },
       "transparent": {
-        "value": "#00000000",
+        "value": "rgba($base.black, $opacity.0)",
         "type": "color",
         "description": "misc/transparent"
       }
