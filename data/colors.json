@@ -2118,181 +2118,181 @@
   "semantics: light": {
     "fg": {
       "default": {
-        "value": "{gray.100}",
+        "value": "$gray.100",
         "type": "color",
         "description": "gray/100"
       },
       "subtle": {
-        "value": "{gray.70}",
+        "value": "$gray.70",
         "type": "color",
         "description": "gray/70"
       },
       "muted": {
-        "value": "{gray.40}",
+        "value": "$gray.40",
         "type": "color",
         "description": "gray/40"
       },
       "onEmphasis": {
-        "value": "{base.white}",
+        "value": "$base.white",
         "type": "color",
         "description": "white/100"
       },
       "accent": {
-        "value": "{blue.50}",
+        "value": "$blue.50",
         "type": "color",
         "description": "blue/50"
       },
       "success": {
-        "value": "{green.50}",
+        "value": "$green.50",
         "type": "color",
         "description": "green/50"
       },
       "warning": {
-        "value": "{orange.50}",
+        "value": "$orange.50",
         "type": "color",
         "description": "orange/50"
       },
       "danger": {
-        "value": "{red.50}",
+        "value": "$red.50",
         "type": "color",
         "description": "red/50"
       }
     },
     "bg": {
       "default": {
-        "value": "{base.white}",
+        "value": "$base.white",
         "type": "color",
         "description": "white/100"
       },
       "defaultAlpha": {
-        "value": "rgba({gray.50},{opacity.5})",
+        "value": "rgba($gray.50,$opacity.5)",
         "type": "color",
         "description": "rgba(gray/50, 0.05)"
       },
       "subtle": {
-        "value": "{gray.0}",
+        "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
       },
       "subtleAlpha": {
-        "value": "rgba({gray.80},{opacity.10})",
+        "value": "rgba($gray.80,$opacity.10)",
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
       },
       "muted": {
-        "value": "{gray.5}",
+        "value": "$gray.5",
         "type": "color",
         "description": "gray/5"
       },
       "inactive": {
-        "value": "{gray.20}",
+        "value": "$gray.20",
         "type": "color",
         "description": "gray/20"
       },
       "accent": {
-        "value": "{blue.0}",
+        "value": "$blue.0",
         "type": "color",
         "description": "blue/0"
       },
       "accentEmphasis": {
-        "value": "{blue.40}",
+        "value": "$blue.40",
         "type": "color",
         "description": "blue/40"
       },
       "success": {
-        "value": "{green.0}",
+        "value": "$green.0",
         "type": "color",
         "description": "green/0"
       },
       "successEmphasis": {
-        "value": "{green.40}",
+        "value": "$green.40",
         "type": "color",
         "description": "green/40"
       },
       "warning": {
-        "value": "{orange.0}",
+        "value": "$orange.0",
         "type": "color",
         "description": "orange/0"
       },
       "warningEmphasis": {
-        "value": "{orange.40}",
+        "value": "$orange.40",
         "type": "color",
         "description": "orange/40"
       },
       "danger": {
-        "value": "{red.0}",
+        "value": "$red.0",
         "type": "color",
         "description": "red/0"
       },
       "dangerEmphasis": {
-        "value": "{red.40}",
+        "value": "$red.40",
         "type": "color",
         "description": "red/40"
       }
     },
     "border": {
       "default": {
-        "value": "{gray.15}",
+        "value": "$gray.15",
         "type": "color",
         "description": "gray/15"
       },
       "defaultAlpha": {
-        "value": "rgba({gray.100},{opacity.5})",
+        "value": "rgba($gray.100,$opacity.5)",
         "type": "color",
         "description": "rgba(gray/100, 0.05)"
       },
       "subtle": {
-        "value": "{gray.20}",
+        "value": "$gray.20",
         "type": "color",
         "description": "gray/20"
       },
       "subtleAlpha": {
-        "value": "rgba({gray.100},{opacity.10})",
+        "value": "rgba($gray.100,$opacity.10)",
         "type": "color",
         "description": "rgba(gray/100, 0.1)"
       },
       "muted": {
-        "value": "{gray.10}",
+        "value": "$gray.10",
         "type": "color",
         "description": "gray/10"
       },
       "accent": {
-        "value": "{blue.10}",
+        "value": "$blue.10",
         "type": "color",
         "description": "blue/10"
       },
       "accentEmphasis": {
-        "value": "{blue.40}",
+        "value": "$blue.40",
         "type": "color",
         "description": "blue/40"
       },
       "success": {
-        "value": "{green.10}",
+        "value": "$green.10",
         "type": "color",
         "description": "green/10"
       },
       "successEmphasis": {
-        "value": "{green.40}",
+        "value": "$green.40",
         "type": "color",
         "description": "green/40"
       },
       "warning": {
-        "value": "{orange.10}",
+        "value": "$orange.10",
         "type": "color",
         "description": "orange/10"
       },
       "warningEmphasis": {
-        "value": "{orange.40}",
+        "value": "$orange.40",
         "type": "color",
         "description": "orange/40"
       },
       "danger": {
-        "value": "{red.10}",
+        "value": "$red.10",
         "type": "color",
         "description": "red/10"
       },
       "dangerEmphasis": {
-        "value": "{red.40}",
+        "value": "$red.40",
         "type": "color",
         "description": "red/40"
       }
@@ -2665,42 +2665,42 @@
   "semantics: dark": {
     "fg": {
       "default": {
-        "value": "{gray.100}",
+        "value": "{gray.0}",
         "type": "color",
         "description": "gray/100"
       },
       "subtle": {
-        "value": "{gray.70}",
+        "value": "{gray.30}",
         "type": "color",
         "description": "gray/70"
       },
       "muted": {
-        "value": "{gray.40}",
+        "value": "{gray.60}",
         "type": "color",
         "description": "gray/40"
       },
       "onEmphasis": {
-        "value": "{base.white}",
+        "value": "{gray.100}",
         "type": "color",
         "description": "white/100"
       },
       "accent": {
-        "value": "{blue.50}",
+        "value": "{blue.30}",
         "type": "color",
         "description": "blue/50"
       },
       "success": {
-        "value": "{green.50}",
+        "value": "{green.30}",
         "type": "color",
         "description": "green/50"
       },
       "warning": {
-        "value": "{orange.50}",
+        "value": "{orange.30}",
         "type": "color",
         "description": "orange/50"
       },
       "danger": {
-        "value": "{red.50}",
+        "value": "{red.30}",
         "type": "color",
         "description": "red/50"
       }
