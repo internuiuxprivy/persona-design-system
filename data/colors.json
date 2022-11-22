@@ -2675,7 +2675,7 @@
         "description": "gray/70"
       },
       "muted": {
-        "value": "{gray.60}",
+        "value": "{gray.70}",
         "type": "color",
         "description": "gray/40"
       },
@@ -2727,17 +2727,17 @@
         "description": "rgba(gray/80, 0.1)"
       },
       "muted": {
-        "value": "{gray.5}",
+        "value": "{gray.90}",
         "type": "color",
         "description": "gray/5"
       },
       "inactive": {
-        "value": "{gray.20}",
+        "value": "{gray.85}",
         "type": "color",
         "description": "gray/20"
       },
       "accent": {
-        "value": "{blue.0}",
+        "value": "{blue.90}",
         "type": "color",
         "description": "blue/0"
       },
@@ -2747,7 +2747,7 @@
         "description": "blue/40"
       },
       "success": {
-        "value": "{green.0}",
+        "value": "{green.90}",
         "type": "color",
         "description": "green/0"
       },
@@ -2757,7 +2757,7 @@
         "description": "green/40"
       },
       "warning": {
-        "value": "{orange.0}",
+        "value": "{orange.90}",
         "type": "color",
         "description": "orange/0"
       },
@@ -2767,7 +2767,7 @@
         "description": "orange/40"
       },
       "danger": {
-        "value": "{red.0}",
+        "value": "{red.90}",
         "type": "color",
         "description": "red/0"
       },
