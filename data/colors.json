@@ -2301,7 +2301,7 @@
       "small": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -2309,7 +2309,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "1",
@@ -2322,7 +2322,7 @@
       "medium": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "2",
@@ -2330,7 +2330,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2343,7 +2343,7 @@
       "large": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2351,7 +2351,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2364,7 +2364,7 @@
       "xlarge": {
         "value": [
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "16",
@@ -2372,7 +2372,7 @@
             "spread": "-2"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "8",
@@ -2380,7 +2380,7 @@
             "spread": "-2"
           },
           {
-            "color": "#0d111726",
+            "color": "rgba($fg.default, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -2392,12 +2392,12 @@
       },
       "2xlarge": {
         "value": {
-          "color": "#0d111740",
-          "type": "dropShadow",
           "x": "0",
           "y": "20",
           "blur": "40",
-          "spread": "-8"
+          "spread": "-8",
+          "color": "rgba($fg.default, $opacity.25)",
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
@@ -2406,7 +2406,7 @@
       "largeTop": {
         "value": [
           {
-            "color": "rgba($gray.100, $opacity.5)",
+            "color": "rgba($fg.default $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "-4",
@@ -2414,7 +2414,7 @@
             "spread": "0"
           },
           {
-            "color": "rgba($gray.100, $opacity.10)",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "-10",
@@ -2427,7 +2427,7 @@
       "largeLeft": {
         "value": [
           {
-            "color": "rgba($gray.100, $opacity.5)",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "-4",
             "y": "0",
@@ -2435,7 +2435,7 @@
             "spread": "0"
           },
           {
-            "color": "rgba($gray.100, $opacity.10)",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "-10",
             "y": "0",
@@ -2448,7 +2448,7 @@
       "largeRight": {
         "value": [
           {
-            "color": "rgba($gray.100, $opacity.5)",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "4",
             "y": "0",
@@ -2456,7 +2456,7 @@
             "spread": "0"
           },
           {
-            "color": "rgba($gray.100, $opacity.10)",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "10",
             "y": "0",
@@ -2469,7 +2469,7 @@
       "onEmphasis": {
         "value": [
           {
-            "color": "rgba($gray.100, $opacity.15)",
+            "color": "rgba($fg.default, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2477,7 +2477,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($gray.100, $opacity.35)",
+            "color": "rgba($fg.default, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2492,7 +2492,7 @@
       "accent": {
         "value": [
           {
-            "color": "rgba($blue.40, $opacity.5)",
+            "color": "rgba($bg.accentEmphasis, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2500,7 +2500,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($blue.40, $opacity.10)",
+            "color": "rgba($bg.accentEmphasis, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2513,7 +2513,7 @@
       "success": {
         "value": [
           {
-            "color": "rgba($green.40, $opacity.5)",
+            "color": "rgba($bg.successEmphasis, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2521,7 +2521,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($green.40, $opacity.10)",
+            "color": "rgba($bg.successEmphasis, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2534,7 +2534,7 @@
       "warning": {
         "value": [
           {
-            "color": "rgba($orange.40, $opacity.5)",
+            "color": "rgba($bg.warningEmphasis, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2542,7 +2542,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($orange.40, $opacity.10)",
+            "color": "rgba($bg.warningEmphasis, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2555,7 +2555,7 @@
       "danger": {
         "value": [
           {
-            "color": "rgba($red.40, $opacity.5)",
+            "color": "rgba($bg.dangerEmphasis, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -2563,7 +2563,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($red.40, $opacity.10)",
+            "color": "rgba($bg.dangerEmphasis, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -2581,7 +2581,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba($gray.40, $opacity.10)",
+          "color": "rgba($fg.muted, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2592,7 +2592,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba($blue.40, $opacity.10)",
+          "color": "rgba($border.accentEmphasis, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2603,7 +2603,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba($green.40, $opacity.10)",
+          "color": "rgba($border.successEmphasis, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2614,7 +2614,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba($orange.40, $opacity.10)",
+          "color": "rgba($border.warningEmphasis, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2625,7 +2625,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba($red.40, $opacity.10)",
+          "color": "rgba($border.dangerEmphasis, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2939,12 +2939,12 @@
       },
       "2xlarge": {
         "value": {
-          "color": "#0d111740",
-          "type": "dropShadow",
           "x": "0",
           "y": "20",
           "blur": "40",
-          "spread": "-8"
+          "spread": "-8",
+          "color": "rgba($fg.default, $opacity.25)",
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
@@ -2953,7 +2953,7 @@
       "largeTop": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "0",
             "y": "-4",
@@ -2961,7 +2961,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "0",
             "y": "-10",
@@ -2974,7 +2974,7 @@
       "largeLeft": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "-4",
             "y": "0",
@@ -2982,7 +2982,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "-10",
             "y": "0",
@@ -2995,7 +2995,7 @@
       "largeRight": {
         "value": [
           {
-            "color": "#0d11170d",
+            "color": "rgba($fg.default, $opacity.5)",
             "type": "dropShadow",
             "x": "4",
             "y": "0",
@@ -3003,7 +3003,7 @@
             "spread": "0"
           },
           {
-            "color": "#0d11171a",
+            "color": "rgba($fg.default, $opacity.10)",
             "type": "dropShadow",
             "x": "10",
             "y": "0",
@@ -3016,7 +3016,7 @@
       "onEmphasis": {
         "value": [
           {
-            "color": "#0d111726",
+            "color": "rgba($fg.default, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -3024,7 +3024,7 @@
             "spread": "-2"
           },
           {
-            "color": "#0d111759",
+            "color": "rgba($fg.default, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
