@@ -2707,7 +2707,7 @@
     },
     "bg": {
       "default": {
-        "value": "{base.white}",
+        "value": "$gray.95",
         "type": "color",
         "description": "white/100"
       },
@@ -2717,12 +2717,12 @@
         "description": "rgba(gray/50, 0.05)"
       },
       "subtle": {
-        "value": "{gray.0}",
+        "value": "$gray.100",
         "type": "color",
         "description": "gray/0"
       },
       "subtleAlpha": {
-        "value": "rgba({gray.80},{opacity.10})",
+        "value": "rgba({gray.20},{opacity.5})",
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
       },
