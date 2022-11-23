@@ -2854,9 +2854,9 @@
         "description": "gray/10"
       },
       "accent": {
-        "value": "{blue.80}",
+        "value": "$blue.100",
         "type": "color",
-        "description": "blue/80"
+        "description": "blue/100"
       },
       "accentEmphasis": {
         "value": "{blue.40}",
@@ -2864,9 +2864,9 @@
         "description": "blue/40"
       },
       "success": {
-        "value": "{green.10}",
+        "value": "{green.100}",
         "type": "color",
-        "description": "green/10"
+        "description": "green/100"
       },
       "successEmphasis": {
         "value": "{green.40}",
@@ -2874,9 +2874,9 @@
         "description": "green/40"
       },
       "warning": {
-        "value": "{orange.10}",
+        "value": "$orange.100",
         "type": "color",
-        "description": "orange/10"
+        "description": "orange/100"
       },
       "warningEmphasis": {
         "value": "{orange.40}",
@@ -2884,9 +2884,9 @@
         "description": "orange/40"
       },
       "danger": {
-        "value": "{red.10}",
+        "value": "$red.100",
         "type": "color",
-        "description": "red/10"
+        "description": "red/100"
       },
       "dangerEmphasis": {
         "value": "{red.40}",
