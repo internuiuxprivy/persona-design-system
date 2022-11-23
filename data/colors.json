@@ -1328,6 +1328,10 @@
         "value": "#00142a",
         "type": "color",
         "description": "blue/90"
+      },
+      "100": {
+        "value": "#001124",
+        "type": "color"
       }
     },
     "green": {
@@ -1380,6 +1384,10 @@
         "value": "#07240d",
         "type": "color",
         "description": "green/90"
+      },
+      "100": {
+        "value": "#061e0b",
+        "type": "color"
       }
     },
     "lightBlue": {
@@ -1432,6 +1440,10 @@
         "value": "#002327",
         "type": "color",
         "description": "lightBlue/90"
+      },
+      "100": {
+        "value": "#001e21",
+        "type": "color"
       }
     },
     "orange": {
@@ -1484,6 +1496,10 @@
         "value": "#312107",
         "type": "color",
         "description": "orange/90"
+      },
+      "100": {
+        "value": "#2a1c06",
+        "type": "color"
       }
     },
     "red": {
@@ -1536,6 +1552,10 @@
         "value": "#2e0909",
         "type": "color",
         "description": "red/90"
+      },
+      "100": {
+        "value": "#270807",
+        "type": "color"
       }
     },
     "gold": {
@@ -1588,6 +1608,10 @@
         "value": "#251f00",
         "type": "color",
         "description": "gold/90"
+      },
+      "100": {
+        "value": "#1f1a00",
+        "type": "color"
       }
     },
     "yellow": {
@@ -1640,6 +1664,10 @@
         "value": "#302b09",
         "type": "color",
         "description": "yellow/90"
+      },
+      "100": {
+        "value": "#292407",
+        "type": "color"
       }
     },
     "lime": {
@@ -1692,6 +1720,10 @@
         "value": "#212e0b",
         "type": "color",
         "description": "lime/90"
+      },
+      "100": {
+        "value": "#1c2709",
+        "type": "color"
       }
     },
     "teal": {
@@ -1744,6 +1776,10 @@
         "value": "#002327",
         "type": "color",
         "description": "teal/90"
+      },
+      "100": {
+        "value": "#031f1b",
+        "type": "color"
       }
     },
     "purple": {
@@ -1796,6 +1832,10 @@
         "value": "#13002a",
         "type": "color",
         "description": "purple/90"
+      },
+      "100": {
+        "value": "#100024",
+        "type": "color"
       }
     },
     "alpha": {
