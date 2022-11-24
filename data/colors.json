@@ -2201,6 +2201,11 @@
         "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
+      },
+      "link": {
+        "value": "$blue.50",
+        "type": "color",
+        "description": "blue/50"
       }
     },
     "bg": {
@@ -2753,6 +2758,11 @@
         "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
+      },
+      "link": {
+        "value": "$blue.30",
+        "type": "color",
+        "description": "blue/30"
       }
     },
     "bg": {
