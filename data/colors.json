@@ -2172,7 +2172,17 @@
         "type": "color",
         "description": "gray/40"
       },
+      "link": {
+        "value": "$blue.50",
+        "type": "color",
+        "description": "blue/50"
+      },
       "onEmphasis": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
+      },
+      "stateEmphasis": {
         "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
@@ -2196,16 +2206,6 @@
         "value": "$red.50",
         "type": "color",
         "description": "red/50"
-      },
-      "stateEmphasis": {
-        "value": "$gray.0",
-        "type": "color",
-        "description": "gray/0"
-      },
-      "link": {
-        "value": "$blue.50",
-        "type": "color",
-        "description": "blue/50"
       }
     },
     "bg": {
@@ -2729,10 +2729,20 @@
         "type": "color",
         "description": "gray/40"
       },
+      "link": {
+        "value": "$blue.30",
+        "type": "color",
+        "description": "blue/30"
+      },
       "onEmphasis": {
         "value": "{gray.100}",
         "type": "color",
         "description": "white/100"
+      },
+      "stateEmphasis": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
       },
       "accent": {
         "value": "{blue.30}",
@@ -2753,16 +2763,6 @@
         "value": "{red.30}",
         "type": "color",
         "description": "red/50"
-      },
-      "stateEmphasis": {
-        "value": "$gray.0",
-        "type": "color",
-        "description": "gray/0"
-      },
-      "link": {
-        "value": "$blue.30",
-        "type": "color",
-        "description": "blue/30"
       }
     },
     "bg": {
