@@ -3099,7 +3099,7 @@
       "accent": {
         "value": [
           {
-            "color": "rgba($blue.80, $opacity.45)",
+            "color": "rgba($blue.100, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -3107,7 +3107,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($blue.80, $opacity.65)",
+            "color": "rgba($blue.100, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -3120,7 +3120,7 @@
       "success": {
         "value": [
           {
-            "color": "rgba($green.80, $opacity.45)",
+            "color": "rgba($green.100, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -3128,7 +3128,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($green.80, $opacity.65)",
+            "color": "rgba($green.100, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -3141,7 +3141,7 @@
       "warning": {
         "value": [
           {
-            "color": "rgba($orange.80, $opacity.45)",
+            "color": "rgba($orange.100, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -3149,7 +3149,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($orange.80, $opacity.65)",
+            "color": "rgba($orange.100, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
@@ -3162,7 +3162,7 @@
       "danger": {
         "value": [
           {
-            "color": "rgba($red.80, $opacity.45)",
+            "color": "rgba($red.100, $opacity.15)",
             "type": "dropShadow",
             "x": "0",
             "y": "4",
@@ -3170,7 +3170,7 @@
             "spread": "-2"
           },
           {
-            "color": "rgba($red.80, $opacity.65)",
+            "color": "rgba($red.100, $opacity.35)",
             "type": "dropShadow",
             "x": "0",
             "y": "10",
