@@ -1,5 +1,5 @@
 {
-  "Typography": {
+  "typography": {
     "fontFamilies": {
       "dm-sans": {
         "value": "DM Sans",
@@ -3272,7 +3272,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Typography",
+      "typography",
       "colors",
       "semantics: light",
       "semantics: dark"
