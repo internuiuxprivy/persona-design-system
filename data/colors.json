@@ -2725,6 +2725,18 @@
     }
   },
   "semantics: dark": {
+    "brand": {
+      "action": {
+        "value": "$red.40",
+        "type": "color",
+        "description": "red/40"
+      },
+      "logo": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
+      }
+    },
     "fg": {
       "default": {
         "value": "$gray.0",
