@@ -2741,17 +2741,17 @@
       "default": {
         "value": "$gray.0",
         "type": "color",
-        "description": "gray/100"
+        "description": "gray/0"
       },
       "subtle": {
         "value": "$gray.30",
         "type": "color",
-        "description": "gray/70"
+        "description": "gray/30"
       },
       "muted": {
         "value": "$gray.70",
         "type": "color",
-        "description": "gray/40"
+        "description": "gray/70"
       },
       "link": {
         "value": "$blue.30",
