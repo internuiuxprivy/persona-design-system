@@ -2813,12 +2813,12 @@
       "muted": {
         "value": "$gray.90",
         "type": "color",
-        "description": "gray/5"
+        "description": "gray/90"
       },
       "inactive": {
         "value": "$gray.85",
         "type": "color",
-        "description": "gray/20"
+        "description": "gray/85"
       },
       "accent": {
         "value": "$blue.90",
