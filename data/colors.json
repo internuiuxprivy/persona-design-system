@@ -2785,6 +2785,11 @@
         "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
+      },
+      "accent": {
+        "value": "$red.40",
+        "type": "color",
+        "description": "red/40"
       }
     },
     "fg": {
@@ -2798,10 +2803,15 @@
         "type": "color",
         "description": "gray/40"
       },
-      "muted": {
-        "value": "$gray.70",
+      "subtlest": {
+        "value": "#56585d",
         "type": "color",
         "description": "gray/70"
+      },
+      "muted": {
+        "value": "$gray.85",
+        "type": "color",
+        "description": "gray/85"
       },
       "link": {
         "value": "$blue.30",
@@ -2909,6 +2919,11 @@
         "value": "$red.40",
         "type": "color",
         "description": "red/40"
+      },
+      "subtlest": {
+        "value": "#20242a",
+        "type": "color",
+        "description": "gray/90"
       }
     },
     "border": {
