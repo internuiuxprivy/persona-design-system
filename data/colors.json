@@ -2353,6 +2353,16 @@
         "type": "color",
         "description": "rgba(gray/100, 0.1)"
       },
+      "subtlest": {
+        "value": "$gray.25",
+        "type": "color",
+        "description": "gray/25"
+      },
+      "subtlestAlpha": {
+        "value": "rgba($gray.100, $opacity.15)",
+        "type": "color",
+        "description": "rgba(gray/100, 0.15)"
+      },
       "muted": {
         "value": "$gray.10",
         "type": "color",
