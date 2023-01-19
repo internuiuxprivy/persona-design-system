@@ -2167,12 +2167,17 @@
   },
   "semantics: light": {
     "brand": {
+      "logo": {
+        "value": "$red.40",
+        "type": "color",
+        "description": "red/40"
+      },
       "action": {
         "value": "$red.40",
         "type": "color",
         "description": "red/40"
       },
-      "logo": {
+      "accent": {
         "value": "$red.40",
         "type": "color",
         "description": "red/40"
@@ -2185,14 +2190,19 @@
         "description": "gray/100"
       },
       "subtle": {
-        "value": "$gray.70",
+        "value": "$gray.50",
         "type": "color",
-        "description": "gray/70"
+        "description": "gray/50"
+      },
+      "subtlest": {
+        "value": "$gray.25",
+        "type": "color",
+        "description": "gray/25"
       },
       "muted": {
-        "value": "$gray.40",
+        "value": "$gray.15",
         "type": "color",
-        "description": "gray/40"
+        "description": "gray/15"
       },
       "link": {
         "value": "$blue.50",
@@ -2209,7 +2219,7 @@
         "type": "color",
         "description": "gray/0"
       },
-      "accent": {
+      "info": {
         "value": "$blue.50",
         "type": "color",
         "description": "blue/50"
@@ -2231,15 +2241,35 @@
       }
     },
     "bg": {
+      "base": {
+        "value": "$gray.5",
+        "type": "color",
+        "description": "gray/5"
+      },
       "default": {
         "value": "$gray.0",
         "type": "color",
-        "description": "gray/0\n"
+        "description": "gray/0"
+      },
+      "layer1": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
+      },
+      "layer2": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
       },
       "defaultAlpha": {
         "value": "rgba($gray.50,$opacity.5)",
         "type": "color",
         "description": "rgba(gray/50, 0.05)"
+      },
+      "inverse": {
+        "value": "$gray.100",
+        "type": "color",
+        "description": "gray/100"
       },
       "subtle": {
         "value": "$gray.5",
@@ -2251,22 +2281,22 @@
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
       },
-      "muted": {
-        "value": "$gray.10",
+      "subtlest": {
+        "value": "$gray.15",
         "type": "color",
-        "description": "gray/10"
+        "description": "gray/15"
       },
-      "inactive": {
-        "value": "$gray.20",
+      "subtlestAlpha": {
+        "value": "rgba($gray.100, $opacity.15)",
         "type": "color",
-        "description": "gray/20"
+        "description": "rgba(gray/100, 0.15)"
       },
-      "accent": {
+      "info": {
         "value": "$blue.0",
         "type": "color",
         "description": "blue/0"
       },
-      "accentEmphasis": {
+      "infoEmphasis": {
         "value": "$blue.40",
         "type": "color",
         "description": "blue/40"
@@ -2328,12 +2358,12 @@
         "type": "color",
         "description": "gray/10"
       },
-      "accent": {
+      "info": {
         "value": "$blue.10",
         "type": "color",
         "description": "blue/10"
       },
-      "accentEmphasis": {
+      "infoEmphasis": {
         "value": "$blue.40",
         "type": "color",
         "description": "blue/40"
