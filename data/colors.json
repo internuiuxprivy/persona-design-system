@@ -3200,7 +3200,7 @@
       }
     },
     "roles": {
-      "accent": {
+      "info": {
         "value": [
           {
             "color": "rgba($blue.100, $opacity.15)",
@@ -3297,7 +3297,7 @@
         },
         "type": "boxShadow"
       },
-      "accent": {
+      "info": {
         "value": {
           "x": "0",
           "y": "0",
