@@ -2855,30 +2855,45 @@
         "type": "color",
         "description": "gray/100"
       },
-      "defaultAlpha": {
-        "value": "rgba($gray.50,$opacity.5)",
+      "default": {
+        "value": "#14181e",
         "type": "color",
-        "description": "rgba(gray/50, 0.05)"
+        "description": "gray/95"
+      },
+      "layer1": {
+        "value": "#20242a",
+        "type": "color",
+        "description": "gray/90"
+      },
+      "layer2": {
+        "value": "#31353a",
+        "type": "color",
+        "description": "gray/85"
+      },
+      "defaultAlpha": {
+        "value": "rgba($gray.80,$opacity.10)",
+        "type": "color",
+        "description": "rgba(gray/80, 0.1)"
       },
       "subtle": {
+        "value": "$gray.100",
+        "type": "color",
+        "description": "gray/100"
+      },
+      "subtleAlpha": {
+        "value": "rgba($gray.70,$opacity.10)",
+        "type": "color",
+        "description": "rgba(gray/70, 0.1)"
+      },
+      "subtlest": {
         "value": "$gray.95",
         "type": "color",
         "description": "gray/95"
       },
-      "subtleAlpha": {
-        "value": "rgba($gray.20,$opacity.5)",
+      "subtlestAlpha": {
+        "value": "rgba($gray.60, $opacity.10)",
         "type": "color",
-        "description": "rgba(gray/80, 0.1)"
-      },
-      "muted": {
-        "value": "$gray.90",
-        "type": "color",
-        "description": "gray/90"
-      },
-      "inactive": {
-        "value": "$gray.85",
-        "type": "color",
-        "description": "gray/85"
+        "description": "rgba(gray/60, 0.1)"
       },
       "info": {
         "value": "$blue.90",
@@ -2919,11 +2934,6 @@
         "value": "$red.30",
         "type": "color",
         "description": "red/30"
-      },
-      "subtlest": {
-        "value": "#20242a",
-        "type": "color",
-        "description": "gray/90"
       }
     },
     "border": {
