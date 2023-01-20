@@ -2875,6 +2875,11 @@
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
       },
+      "inverse": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
+      },
       "subtle": {
         "value": "$gray.100",
         "type": "color",
