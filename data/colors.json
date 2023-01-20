@@ -2777,9 +2777,9 @@
   "semantics: dark": {
     "brand": {
       "action": {
-        "value": "$red.40",
+        "value": "$red.30",
         "type": "color",
-        "description": "red/40"
+        "description": "red/30"
       },
       "logo": {
         "value": "$gray.0",
@@ -2787,9 +2787,9 @@
         "description": "gray/0"
       },
       "accent": {
-        "value": "$red.40",
+        "value": "$red.30",
         "type": "color",
-        "description": "red/40"
+        "description": "red/30"
       }
     },
     "fg": {
@@ -2804,7 +2804,7 @@
         "description": "gray/40"
       },
       "subtlest": {
-        "value": "#56585d",
+        "value": "$gray.70",
         "type": "color",
         "description": "gray/70"
       },
@@ -2828,29 +2828,29 @@
         "type": "color",
         "description": "gray/0"
       },
-      "accent": {
+      "info": {
         "value": "$blue.30",
         "type": "color",
-        "description": "blue/50"
+        "description": "blue/30"
       },
       "success": {
         "value": "$green.30",
         "type": "color",
-        "description": "green/50"
+        "description": "green/30"
       },
       "warning": {
         "value": "$orange.30",
         "type": "color",
-        "description": "orange/50"
+        "description": "orange/30"
       },
       "danger": {
         "value": "$red.30",
         "type": "color",
-        "description": "red/50"
+        "description": "red/30"
       }
     },
     "bg": {
-      "default": {
+      "base": {
         "value": "$gray.100",
         "type": "color",
         "description": "gray/100"
@@ -2880,45 +2880,45 @@
         "type": "color",
         "description": "gray/85"
       },
-      "accent": {
+      "info": {
         "value": "$blue.90",
         "type": "color",
-        "description": "blue/0"
+        "description": "blue/90"
       },
-      "accentEmphasis": {
-        "value": "$blue.40",
+      "infoEmphasis": {
+        "value": "$blue.30",
         "type": "color",
-        "description": "blue/40"
+        "description": "blue/30"
       },
       "success": {
         "value": "$green.90",
         "type": "color",
-        "description": "green/0"
+        "description": "green/90"
       },
       "successEmphasis": {
-        "value": "$green.40",
+        "value": "$green.30",
         "type": "color",
-        "description": "green/40"
+        "description": "green/30"
       },
       "warning": {
         "value": "$orange.90",
         "type": "color",
-        "description": "orange/0"
+        "description": "orange/90"
       },
       "warningEmphasis": {
-        "value": "$orange.40",
+        "value": "$orange.30",
         "type": "color",
-        "description": "orange/40"
+        "description": "orange/30"
       },
       "danger": {
         "value": "$red.90",
         "type": "color",
-        "description": "red/0"
+        "description": "red/90"
       },
       "dangerEmphasis": {
-        "value": "$red.40",
+        "value": "$red.30",
         "type": "color",
-        "description": "red/40"
+        "description": "red/30"
       },
       "subtlest": {
         "value": "#20242a",
