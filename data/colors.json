@@ -2890,16 +2890,6 @@
         "type": "color",
         "description": "rgba(gray/70, 0.1)"
       },
-      "subtlest": {
-        "value": "$gray.95",
-        "type": "color",
-        "description": "gray/95"
-      },
-      "subtlestAlpha": {
-        "value": "rgba($gray.60, $opacity.10)",
-        "type": "color",
-        "description": "rgba(gray/60, 0.1)"
-      },
       "info": {
         "value": "$blue.90",
         "type": "color",
@@ -2955,7 +2945,7 @@
       "subtle": {
         "value": "$gray.95",
         "type": "color",
-        "description": "gray/85"
+        "description": "gray/95"
       },
       "subtleAlpha": {
         "value": "rgba($gray.0,$opacity.10)",
