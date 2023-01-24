@@ -2943,9 +2943,9 @@
         "description": "rgba(gray/0, 0.05)"
       },
       "subtle": {
-        "value": "$gray.95",
+        "value": "$gray.85",
         "type": "color",
-        "description": "gray/95"
+        "description": "gray/85"
       },
       "subtleAlpha": {
         "value": "rgba($gray.0,$opacity.10)",
@@ -2953,19 +2953,19 @@
         "description": "rgba(gray/0, 0.1)"
       },
       "muted": {
-        "value": "$gray.10",
+        "value": "$gray.85",
         "type": "color",
-        "description": "gray/10"
+        "description": "gray/85"
       },
-      "accent": {
+      "info": {
         "value": "$blue.100",
         "type": "color",
         "description": "blue/100"
       },
-      "accentEmphasis": {
-        "value": "$blue.40",
+      "infoEmphasis": {
+        "value": "$blue.30",
         "type": "color",
-        "description": "blue/40"
+        "description": "blue/30"
       },
       "success": {
         "value": "$green.100",
@@ -2973,9 +2973,9 @@
         "description": "green/100"
       },
       "successEmphasis": {
-        "value": "$green.40",
+        "value": "$green.30",
         "type": "color",
-        "description": "green/40"
+        "description": "green/30"
       },
       "warning": {
         "value": "$orange.100",
@@ -2983,9 +2983,9 @@
         "description": "orange/100"
       },
       "warningEmphasis": {
-        "value": "$orange.40",
+        "value": "$orange.30",
         "type": "color",
-        "description": "orange/40"
+        "description": "orange/30"
       },
       "danger": {
         "value": "$red.100",
@@ -2993,9 +2993,9 @@
         "description": "red/100"
       },
       "dangerEmphasis": {
-        "value": "$red.40",
+        "value": "$red.30",
         "type": "color",
-        "description": "red/40"
+        "description": "red/30"
       }
     },
     "shadow": {
