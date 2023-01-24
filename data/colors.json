@@ -3511,6 +3511,12 @@
         "value": "99999",
         "type": "borderRadius"
       }
+    },
+    "misc": {
+      "shimmer": {
+        "value": "linear-gradient(90deg, #c2c3c500 0%, #c2c3c5 50%, #c2c3c500 100%)",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
