@@ -2067,11 +2067,6 @@
         "type": "color",
         "description": "misc/shimmer"
       },
-      "labelBg": {
-        "value": "linear-gradient(180deg, transparent 50%, $base.white 50%)",
-        "type": "color",
-        "description": "misc/labelBg"
-      },
       "transparent": {
         "value": "rgba($base.black, $opacity.0)",
         "type": "color",
