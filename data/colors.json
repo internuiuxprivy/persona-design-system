@@ -2834,15 +2834,15 @@
   },
   "semantics: dark": {
     "brand": {
-      "action": {
-        "value": "$red.30",
-        "type": "color",
-        "description": "red/30"
-      },
       "logo": {
         "value": "$gray.0",
         "type": "color",
         "description": "gray/0"
+      },
+      "action": {
+        "value": "$red.30",
+        "type": "color",
+        "description": "red/30"
       },
       "accent": {
         "value": "$red.30",
