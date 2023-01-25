@@ -2673,7 +2673,7 @@
         },
         "type": "boxShadow"
       },
-      "defaultOnEmphasis": {
+      "defaultOnInverse": {
         "value": {
           "color": "#9ea0a24d",
           "type": "dropShadow",
@@ -3366,7 +3366,7 @@
         },
         "type": "boxShadow"
       },
-      "defaultOnEmphasis": {
+      "defaultOnInverse": {
         "value": {
           "x": "0",
           "y": "0",
@@ -3410,7 +3410,7 @@
         },
         "type": "boxShadow"
       },
-      "infoOnEmphasis": {
+      "infoOnInverse": {
         "value": {
           "x": "0",
           "y": "0",
@@ -3432,7 +3432,7 @@
         },
         "type": "boxShadow"
       },
-      "successOnEmphasis": {
+      "successOnInverse": {
         "value": {
           "x": "0",
           "y": "0",
@@ -3454,7 +3454,7 @@
         },
         "type": "boxShadow"
       },
-      "warningOnEmphasis": {
+      "warningOnInverse": {
         "value": {
           "x": "0",
           "y": "0",
@@ -3476,7 +3476,7 @@
         },
         "type": "boxShadow"
       },
-      "dangerOnEmphasis": {
+      "dangerOnInverse": {
         "value": {
           "x": "0",
           "y": "0",
