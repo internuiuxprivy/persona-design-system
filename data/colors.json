@@ -2827,8 +2827,9 @@
     },
     "misc": {
       "shimmer": {
-        "value": "linear-gradient(90deg, #f3f3f300 0%, #f3f3f3 50%, #f3f3f300 100%)",
-        "type": "color"
+        "value": "linear-gradient(90deg, rgba($gray.5, $opacity.0) 0%, rgba($gray.5, $opacity.100) 50%, rgba($gray.5, $opacity.0) 100%)",
+        "type": "color",
+        "description": "misc/shimmer"
       }
     }
   },
