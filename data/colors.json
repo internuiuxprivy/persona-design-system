@@ -2914,17 +2914,17 @@
         "description": "gray/100"
       },
       "default": {
-        "value": "#14181e",
+        "value": "$gray.95",
         "type": "color",
         "description": "gray/95"
       },
       "layer1": {
-        "value": "#20242a",
+        "value": "$gray.90",
         "type": "color",
         "description": "gray/90"
       },
       "layer2": {
-        "value": "#31353a",
+        "value": "$gray.85",
         "type": "color",
         "description": "gray/85"
       },
