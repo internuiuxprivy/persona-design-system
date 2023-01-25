@@ -3399,28 +3399,6 @@
         },
         "type": "boxShadow"
       },
-      "info": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4",
-          "color": "rgba($blue.40, $opacity.15)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "infoOnInverse": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4",
-          "color": "rgba($blue.40, $opacity.10)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
       "success": {
         "value": {
           "x": "0",
@@ -3483,6 +3461,28 @@
           "blur": "0",
           "spread": "4",
           "color": "rgba($red.40, $opacity.10)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "info": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4",
+          "color": "rgba($blue.40, $opacity.15)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "infoOnInverse": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4",
+          "color": "rgba($blue.40, $opacity.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
