@@ -2893,24 +2893,24 @@
         "description": "gray/0"
       },
       "info": {
-        "value": "$blue.30",
+        "value": "$blue.20",
         "type": "color",
-        "description": "blue/30"
+        "description": "blue/20"
       },
       "success": {
-        "value": "$green.30",
+        "value": "$green.20",
         "type": "color",
-        "description": "green/30"
+        "description": "green/20"
       },
       "warning": {
-        "value": "$orange.30",
+        "value": "$orange.20",
         "type": "color",
-        "description": "orange/30"
+        "description": "orange/20"
       },
       "danger": {
-        "value": "$red.30",
+        "value": "$red.20",
         "type": "color",
-        "description": "red/30"
+        "description": "red/20"
       }
     },
     "bg": {
