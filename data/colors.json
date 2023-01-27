@@ -2220,24 +2220,24 @@
         "description": "gray/0"
       },
       "info": {
-        "value": "$blue.50",
+        "value": "$blue.60",
         "type": "color",
-        "description": "blue/50"
+        "description": "blue/60"
       },
       "success": {
-        "value": "$green.50",
+        "value": "$green.60",
         "type": "color",
-        "description": "green/50"
+        "description": "green/60"
       },
       "warning": {
-        "value": "$orange.50",
+        "value": "$orange.60",
         "type": "color",
-        "description": "orange/50"
+        "description": "orange/60"
       },
       "danger": {
-        "value": "$red.50",
+        "value": "$red.60",
         "type": "color",
-        "description": "red/50"
+        "description": "red/60"
       }
     },
     "bg": {
