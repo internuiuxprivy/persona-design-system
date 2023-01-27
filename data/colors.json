@@ -2190,9 +2190,9 @@
         "description": "gray/100"
       },
       "subtle": {
-        "value": "$gray.50",
+        "value": "$gray.60",
         "type": "color",
-        "description": "gray/50"
+        "description": "gray/60"
       },
       "subtlest": {
         "value": "$gray.25",
