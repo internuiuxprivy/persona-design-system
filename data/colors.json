@@ -2868,14 +2868,14 @@
         "description": "gray/40"
       },
       "subtlest": {
-        "value": "$gray.70",
+        "value": "$gray.60",
         "type": "color",
-        "description": "gray/70"
+        "description": "gray/60"
       },
       "muted": {
-        "value": "$gray.85",
+        "value": "$gray.75",
         "type": "color",
-        "description": "gray/85"
+        "description": "gray/75"
       },
       "link": {
         "value": "$blue.30",
