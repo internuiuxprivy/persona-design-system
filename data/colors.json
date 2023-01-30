@@ -2195,14 +2195,14 @@
         "description": "gray/60"
       },
       "subtlest": {
+        "value": "$gray.30",
+        "type": "color",
+        "description": "gray/30"
+      },
+      "muted": {
         "value": "$gray.25",
         "type": "color",
         "description": "gray/25"
-      },
-      "muted": {
-        "value": "$gray.20",
-        "type": "color",
-        "description": "gray/20"
       },
       "link": {
         "value": "$blue.50",
