@@ -2195,9 +2195,9 @@
         "description": "gray/60"
       },
       "subtlest": {
-        "value": "$gray.30",
+        "value": "$gray.35",
         "type": "color",
-        "description": "gray/30"
+        "description": "gray/35"
       },
       "muted": {
         "value": "$gray.25",
