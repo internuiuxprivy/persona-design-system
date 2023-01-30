@@ -3007,9 +3007,9 @@
         "description": "rgba(gray/0, 0.05)"
       },
       "subtle": {
-        "value": "$gray.85",
+        "value": "$gray.80",
         "type": "color",
-        "description": "gray/85"
+        "description": "gray/80"
       },
       "subtleAlpha": {
         "value": "rgba($gray.0,$opacity.10)",
