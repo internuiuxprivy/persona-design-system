@@ -2200,9 +2200,9 @@
         "description": "gray/25"
       },
       "muted": {
-        "value": "$gray.15",
+        "value": "$gray.20",
         "type": "color",
-        "description": "gray/15"
+        "description": "gray/20"
       },
       "link": {
         "value": "$blue.50",
