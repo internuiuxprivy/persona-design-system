@@ -2890,7 +2890,7 @@
       "onEmphasis": {
         "value": "$gray.100",
         "type": "color",
-        "description": "white/100"
+        "description": "gray/100"
       },
       "stateEmphasis": {
         "value": "$gray.0",
@@ -2944,11 +2944,6 @@
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
       },
-      "inverse": {
-        "value": "$gray.0",
-        "type": "color",
-        "description": "gray/0"
-      },
       "subtle": {
         "value": "$gray.100",
         "type": "color",
@@ -2958,6 +2953,11 @@
         "value": "rgba($gray.70,$opacity.10)",
         "type": "color",
         "description": "rgba(gray/70, 0.1)"
+      },
+      "inverse": {
+        "value": "$gray.0",
+        "type": "color",
+        "description": "gray/0"
       },
       "info": {
         "value": "$blue.90",
@@ -3025,6 +3025,11 @@
         "value": "$gray.85",
         "type": "color",
         "description": "gray/85"
+      },
+      "inverse": {
+        "value": "$gray.15",
+        "type": "color",
+        "description": "gray/15"
       },
       "info": {
         "value": "$blue.100",
