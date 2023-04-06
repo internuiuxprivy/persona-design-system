@@ -2266,20 +2266,20 @@
         "type": "color",
         "description": "rgba(gray/50, 0.05)"
       },
-      "inverse": {
-        "value": "$gray.100",
-        "type": "color",
-        "description": "gray/100"
-      },
       "subtle": {
-        "value": "$gray.5",
+        "value": "$gray.10",
         "type": "color",
-        "description": "gray/5"
+        "description": "gray/10"
       },
       "subtleAlpha": {
         "value": "rgba($gray.80,$opacity.10)",
         "type": "color",
         "description": "rgba(gray/80, 0.1)"
+      },
+      "inverse": {
+        "value": "$gray.100",
+        "type": "color",
+        "description": "gray/100"
       },
       "info": {
         "value": "$blue.0",
@@ -2347,6 +2347,11 @@
         "value": "$gray.10",
         "type": "color",
         "description": "gray/10"
+      },
+      "inverse": {
+        "value": "$gray.90",
+        "type": "color",
+        "description": "gray/90"
       },
       "info": {
         "value": "$blue.10",
