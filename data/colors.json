@@ -2873,14 +2873,14 @@
         "description": "gray/40"
       },
       "subtlest": {
-        "value": "$gray.60",
+        "value": "$gray.70",
         "type": "color",
-        "description": "gray/60"
+        "description": "gray/70"
       },
       "muted": {
-        "value": "$gray.75",
+        "value": "$gray.85",
         "type": "color",
-        "description": "gray/75"
+        "description": "gray/85"
       },
       "link": {
         "value": "$blue.30",
