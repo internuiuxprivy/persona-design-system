@@ -2178,9 +2178,9 @@
         "description": "red/40"
       },
       "accent": {
-        "value": "$red.40",
+        "value": "$blue.40",
         "type": "color",
-        "description": "red/40"
+        "description": "blue/40"
       }
     },
     "fg": {
